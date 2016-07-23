@@ -242,7 +242,7 @@ import static SimpleString.rightTrim;
 
 rightTrim("abcd    ");
 
-result=>"abcd"
+//result=>"abcd"
 ```
 
 ## prepend
