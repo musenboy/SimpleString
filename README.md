@@ -104,7 +104,7 @@ countSubstr("musenBOYmusenBOY", "boy", false);
 ## endsWith
 
 ```
-import static SimpleString.countSubstr;
+import static SimpleString.endsWith;
 
 endsWith("musenBoy", "boy", false);
 
